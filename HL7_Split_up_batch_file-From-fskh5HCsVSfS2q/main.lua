@@ -1,5 +1,6 @@
 -- Example of parsing HL7 Batch message.
 -- The module ignores the BHS and FHS (batch header) segments and collates up the HL7 messages.
+-- ADDED THIS LINE FOR TEST IN MAIN
 
 -- http://help.interfaceware.com/v6/hl7-split-up-batch-file
 
