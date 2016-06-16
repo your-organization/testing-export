@@ -1,5 +1,5 @@
 -- http://help.interfaceware.com/v6/hl7-split-up-batch-file
-----------------------------------------------------------
+
 
 -- Helper functions
 

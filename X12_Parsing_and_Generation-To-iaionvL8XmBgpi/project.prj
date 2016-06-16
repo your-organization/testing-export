@@ -1,10 +1,10 @@
 {
     "LocalDependencies": [
-        "samplebatch.lua"
+        "270v3.vmd",
+        "271v3.vmd",
+        "mappings.lua"
     ],
-    "LuaDependencies": [
-        "hl7.batch"
-    ],
+    "LuaDependencies": [],
     "OtherDependencies": [],
     "timestamp": "1466089821",
     "version_info": {

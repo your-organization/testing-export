@@ -1,9 +1,11 @@
 {
     "LocalDependencies": [
-        "samplebatch.lua"
+        "TA1.vmd",
+        "x12.vmd"
     ],
     "LuaDependencies": [
-        "hl7.batch"
+        "codemap",
+        "x12.ack.generate"
     ],
     "OtherDependencies": [],
     "timestamp": "1466089821",

@@ -1,11 +1,12 @@
 {
-    "LocalDependencies": [
-        "samplebatch.lua"
-    ],
+    "LocalDependencies": [],
     "LuaDependencies": [
-        "hl7.batch"
+        "ran"
     ],
-    "OtherDependencies": [],
+    "OtherDependencies": [
+        "example/demo.vmd",
+        "random/generator.vmd"
+    ],
     "timestamp": "1466089821",
     "version_info": {
         "build": 0,

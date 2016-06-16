@@ -1,10 +1,6 @@
 {
-    "LocalDependencies": [
-        "samplebatch.lua"
-    ],
-    "LuaDependencies": [
-        "hl7.batch"
-    ],
+    "LocalDependencies": [],
+    "LuaDependencies": [],
     "OtherDependencies": [],
     "timestamp": "1466089821",
     "version_info": {

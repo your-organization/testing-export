@@ -1,9 +1,9 @@
 {
     "LocalDependencies": [
-        "samplebatch.lua"
+        "demo.vmd"
     ],
     "LuaDependencies": [
-        "hl7.batch"
+        "hl7.findSegment"
     ],
     "OtherDependencies": [],
     "timestamp": "1466089821",

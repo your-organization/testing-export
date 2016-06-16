@@ -1,11 +1,16 @@
 {
     "LocalDependencies": [
-        "samplebatch.lua"
+        "Common.lua",
+        "MapADT.lua",
+        "MapLab.lua"
     ],
     "LuaDependencies": [
-        "hl7.batch"
+        "stringutil",
+        "xml"
     ],
-    "OtherDependencies": [],
+    "OtherDependencies": [
+        "demo.vmd"
+    ],
     "timestamp": "1466089821",
     "version_info": {
         "build": 0,

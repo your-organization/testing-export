@@ -1,9 +1,7 @@
 {
-    "LocalDependencies": [
-        "samplebatch.lua"
-    ],
+    "LocalDependencies": [],
     "LuaDependencies": [
-        "hl7.batch"
+        "hl7.zsegment"
     ],
     "OtherDependencies": [],
     "timestamp": "1466089821",
