@@ -9,8 +9,8 @@
    </to_channel>
    <from_mapper
       guid="HL7_Split_up_batch_file-From-fskh5HCsVSfS2q"
-      commit_id="d727b9492d24fbc1412f1d6a9c010c5ae04e3f00"
-      commit_comment="jkjkjkjk"
+      commit_id="ee43eefa02411f726ef5eda68fbdab490687ca8f"
+      commit_comment="asdfasdfadsfads"
       poll_time="10000">
    </from_mapper>
    <message_filter
