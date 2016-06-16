@@ -1,4 +1,3 @@
--- TESTING FOR MAIN
 -- Example of parsing HL7 Batch message.
 -- The module ignores the BHS and FHS (batch header) segments and collates up the HL7 messages.
 
